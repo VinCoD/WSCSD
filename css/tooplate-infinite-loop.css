@@ -699,3 +699,15 @@ p {
     margin: 0;
   }
 }
+
+.map{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  margin-bottom: 5vh;
+  
+}
+.in-map p{
+  text-align: center;
+}
