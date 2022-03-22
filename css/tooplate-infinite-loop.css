@@ -148,6 +148,7 @@ blockquote {
 	background-color: rgba(34, 34, 34, 0.201);
   background-image: url(../img/images.jpg);
   background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
   height: 100vh;
