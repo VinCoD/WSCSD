@@ -232,7 +232,7 @@ blockquote {
 .tm-down-arrow {
   	color: #FFF;
     cursor: pointer;
-    background: #357;
+    background: gray;
     padding: 15px 40px;
     transition: all 0.3s ease;
 }
