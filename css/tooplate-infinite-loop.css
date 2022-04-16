@@ -145,8 +145,10 @@ blockquote {
 /* Hero */
 
 #infinite {
-	background-color: rgba(34, 34, 34, 0.201);
+	
   background-image: url(../img/images.jpg);
+  background-color: cyan;
+  background-blend-mode: darken;
   background-size: cover;
   background-size: 100%;
   background-repeat: no-repeat;
